@@ -1,5 +1,11 @@
 <h2> Hi👋, I'm Karthik AG! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
+
+
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 <!--
 **karthik-AG-21/karthik-AG-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
