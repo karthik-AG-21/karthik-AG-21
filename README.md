@@ -1,5 +1,4 @@
-## Hi there 👋
-Karthik AG | Full-Stack Web Developer intern 👨‍💻
+## Hi there 👋 Karthik AG | Full-Stack Web Developer intern 👨‍💻
 
 <!--
 **karthik-AG-21/karthik-AG-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
