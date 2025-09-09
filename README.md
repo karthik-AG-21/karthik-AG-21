@@ -1,4 +1,4 @@
-<h2> Hi, I'm Karthik AG! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi👋, I'm Karthik AG! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <!--
 **karthik-AG-21/karthik-AG-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
