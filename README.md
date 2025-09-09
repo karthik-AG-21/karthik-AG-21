@@ -82,8 +82,6 @@ I enjoy collaborating on innovative projects and connecting with fellow develope
   <a href="mailto:karthikjr2004jr@gmail.com.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" alt="Portfolio"/>
-  </a>
+  
 
 
