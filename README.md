@@ -76,7 +76,7 @@ I enjoy collaborating on innovative projects and connecting with fellow develope
   </span>
 </div>
 <div align="center">
-  <a href="[https://linkedin.com/in/KARTHIK AG/](https://www.linkedin.com/in/karthik-ag)" target="_blank">
+  <a href="(https://www.linkedin.com/in/karthik-ag)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
   <a href="mailto:karthikjr2004jr@gmail.com.com" target="_blank">
