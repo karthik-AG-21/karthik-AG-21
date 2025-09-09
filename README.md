@@ -75,5 +75,15 @@ I enjoy collaborating on innovative projects and connecting with fellow develope
     <em><b>I love connecting with different people, so if you want to say hi, I'll be happy to meet you more! :)</b></em>
   </span>
 </div>
+<div align="center">
+  <a href="https://linkedin.com/in/KARTHIK AG/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:karthikjr2004jr@gmail.com.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" alt="Portfolio"/>
+  </a>
 
 
