@@ -68,7 +68,7 @@ I enjoy collaborating on innovative projects and connecting with fellow develope
 </div>
 
 
-https://camo.githubusercontent.com/
+
 
 
 
