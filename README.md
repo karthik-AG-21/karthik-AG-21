@@ -1,6 +1,6 @@
 <h2> Hi👋, I'm Karthik AG! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-## About 
+## About Me
 
  I'm  a passionate **Full Stack Developer** specializing in the **MERN stack**. I love building interactive, user-friendly web applications and bringing creative ideas to life through code.  
 
